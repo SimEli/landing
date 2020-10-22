@@ -1,0 +1,21 @@
+.footer{
+  /* display: flex; */
+  color: rgba(205, 134, 63, 0.795);
+  text-align: center;
+  padding: 100px;
+  background-color: peru;
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://images.unsplash.com/photo-1442550528053-c431ecb55509?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+  background-size: cover;
+  background-position: center;
+  height: 100px;
+  /* width: 400px; */
+  object-fit: cover;
+  margin: 0 auto;
+  /* align-items: flex-end;
+  justify-content: flex-end; */
+}
+h4{
+  padding: 10px 0;
+  color: blanchedalmond;
+  text-shadow: 1px 1px rgb(73, 62, 78);
+}
